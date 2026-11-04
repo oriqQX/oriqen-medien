@@ -109,7 +109,8 @@
 .oq-serp__checks span{font-size:13px;line-height:1.45;color:#5c5c5c}
 .oq-serp__selbst{margin-top:14px}
 .oq-serp__selbst label{display:block;font-weight:700;margin-top:6px}
-@media (max-width:900px){.oq-serp__raster{grid-template-columns:1fr}}
+@media (max-width:900px){.oq-serp__raster{grid-template-columns:minmax(0,1fr)}}
+.oq-serp,.oq-serp__seite,.oq-serp__eintrag{min-width:0;max-width:100%}
 @media (max-width:600px){.oq-serp{padding:14px}.oq-serp__titel{font-size:17px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}}
 
 /* Crawler: sammeln, ordnen, ausspielen */
