@@ -180,7 +180,7 @@
 .oq-maps__liste li.ist-ich::before{background:#6600CC}
 .oq-maps__liste b{font-size:14px;line-height:1.3;color:#1a0dab}
 .oq-maps__liste small{display:block;font-size:12px;color:#5f6368}
-.oq-maps__sterne{color:#b06000}
+.oq-maps__sterne{color:#9a5200}
 .oq-maps__aktionen{display:flex;gap:6px;margin-top:6px}
 .oq-maps__aktionen i{font-style:normal;font-size:11px;padding:3px 9px;border-radius:20px;border:1px solid #dadce0;color:#1a73e8}
 .oq-maps__rest{margin:8px 0 0!important;font-size:13px!important;color:#a3001b!important;min-height:0}
@@ -200,7 +200,7 @@
 .oq-rev__avatar{width:36px;height:36px;border-radius:50%;background:#e8e2f0;color:#5c4d6b;display:grid;place-items:center;font:700 12px Arial;flex:none}
 .oq-rev__kopf b{display:block;font-size:14px}
 .oq-rev__kopf small{display:block;font-size:12px;color:#5f6368}
-.oq-rev__sterne{color:#e3a008;letter-spacing:1px;margin-right:6px}
+.oq-rev__sterne{color:#b07800;letter-spacing:1px;margin-right:6px}
 .oq-rev__text{margin:0 0 14px!important;font-size:15px;line-height:1.55}
 .oq-rev__antwort{padding:12px 14px;border-left:3px solid #6600CC;background:#faf6ff;border-radius:0 10px 10px 0;transition:border-color .3s,background .3s}
 .oq-rev[data-art=schwach] .oq-rev__antwort{border-left-color:#c0392b;background:#fdf2f2}
