@@ -183,6 +183,7 @@
 .oq-head :is(.the7-heading-title,.elementor-heading-title){color:#140029!important;font-size:clamp(28px,3vw,44px)!important;line-height:1.14!important;letter-spacing:-.01em}
 .oq-head .oq-accent{color:#6600CC!important}
 .oq-head-xl :is(.the7-heading-title,.elementor-heading-title){font-size:clamp(34px,4.2vw,58px)!important;line-height:1.08!important}
+@media (max-width:480px){.oq-head-xl :is(.the7-heading-title,.elementor-heading-title){font-size:clamp(28px,8.4vw,34px)!important}}
 .oq-band-dark .oq-head :is(.the7-heading-title,.elementor-heading-title){color:#fff!important}
 .oq-band-dark .oq-head .oq-accent{color:#CBA8FF!important}
 .oq-kicker{margin-bottom:4px!important}
